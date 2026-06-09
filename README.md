@@ -11,18 +11,18 @@
 
 ### 🛠️ Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/TIC-80-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shell_Script-121011?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIC-80-000000?style=flat" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1g0rX&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=1g0rX&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 ### 🐍 Contribution Snake
