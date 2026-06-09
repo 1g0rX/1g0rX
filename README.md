@@ -45,7 +45,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1g0rX&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=1g0rX&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
 </p>
 
 ### 🐍 Contribution Snake
